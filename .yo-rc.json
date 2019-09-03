@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "demo.docker"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "EsempioDocker",
+    "packageName": "demo.docker",
+    "packageFolder": "demo/docker",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjBiYWY0YzQwYmYzNmFjMDEzMWY1Zjk5YWQ2ZDcyNmIxYzEwZTZiZTJmYTg1YzA0NzAyNjViYjlmZDkzZjNlMjhhMTk2Yzk4N2Q4MTYwMjY4Y2EyOTZkZGIwNjE2MjJiMDNmMzVkMjUwYjVkMWM3YjkzZjA3NDUyZjg1ZjY4MDE=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
